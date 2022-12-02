@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:counterapp/counter/counter_page2.dart';
 import 'package:flutter/material.dart';
 
